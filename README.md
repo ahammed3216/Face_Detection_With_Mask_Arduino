@@ -1,4 +1,4 @@
-# Project Title: 
+<!-- # Project Title: 
 Face Mask Detection Based Door Lock System.
 
 # Project Description: 
@@ -53,3 +53,4 @@ tensorflow, keras, imutils, cv2, numpy, time, os, serial
 Arduino Uno, servo, buzzer, LCD, webcam.
 # IDE: 
 Spyder, Arduino Software.
+ -->
